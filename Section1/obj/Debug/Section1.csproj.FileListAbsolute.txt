@@ -1,0 +1,24 @@
+D:\Projects\OS_Sections\Section1\Section1\bin\Debug\Section1.exe.config
+D:\Projects\OS_Sections\Section1\Section1\bin\Debug\Section1.exe
+D:\Projects\OS_Sections\Section1\Section1\bin\Debug\Section1.pdb
+D:\Projects\OS_Sections\Section1\Section1\obj\Debug\Section1.csproj.CoreCompileInputs.cache
+D:\Projects\OS_Sections\Section1\Section1\obj\Debug\Section1.exe
+D:\Projects\OS_Sections\Section1\Section1\obj\Debug\Section1.pdb
+D:\Projects\OS_Sections\Section1\Section1\obj\Debug\Section1.csproj.AssemblyReference.cache
+F:\OS_Sections\Section1\Section1\bin\Debug\Section1.exe.config
+F:\OS_Sections\Section1\Section1\obj\Debug\Section1.exe
+F:\OS_Sections\Section1\Section1\obj\Debug\Section1.pdb
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\bin\Debug\Section1.exe.config
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\bin\Debug\Section1.exe
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\bin\Debug\Section1.pdb
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\obj\Debug\Section1.csproj.AssemblyReference.cache
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\obj\Debug\Section1.csproj.CoreCompileInputs.cache
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\obj\Debug\Section1.exe
+G:\Third year of CS\Sec term\Operating System\jjj\Debug\Section1\Section1\obj\Debug\Section1.pdb
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\bin\Debug\Section1.exe.config
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\bin\Debug\Section1.exe
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\bin\Debug\Section1.pdb
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\obj\Debug\Section1.csproj.AssemblyReference.cache
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\obj\Debug\Section1.csproj.CoreCompileInputs.cache
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\obj\Debug\Section1.exe
+D:\college curricula\third level\second term\operating system\project\upload\Section1\Section1\obj\Debug\Section1.pdb
